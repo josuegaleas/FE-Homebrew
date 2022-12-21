@@ -1,8 +1,9 @@
 # FE Homebrew
 Heavily-modified setup for a cooperative, D&D-esque experience in Fire Emblem Fates.
+
 Original concept by Zeoro, documentation and rules written mostly by Josue.
 
-We use **Fire Emblem Fates - Special Edition** as the base for these modification and rules, but a similar setup can be achieved in other versions of Fates. It is also possible to run this setup in Fire Emblem Awakening but would require some major modifications.
+We use `Fire Emblem Fates - Special Edition` as the base for these modification and rules, but a similar setup can be achieved in other versions of Fates. It is also possible to run this setup in Fire Emblem Awakening but would require some major modifications.
 
 ## Links
 - [Rules](./RULES.md)
@@ -46,7 +47,7 @@ We are also using a custom-made cheat from [here](https://gbatemp.net/threads/ga
 - All rock weapons
 - All saw weapons
 
-For our setup, this cheat is always enabled. The cheat is based on the `Forge is possible from 0 to 63  v1.0` cheat listed in the repository. The cheat normally only lets you forge all the other weapons not listed above like swords, but this custom-made one extends it. Unfortunately this cheat was made with **Special Edition** in mind and may not work with other versions of Fates.
+For our setup, this cheat is always enabled. The cheat is based on the `Forge is possible from 0 to 63  v1.0` cheat listed in the repository. The cheat normally only lets you forge all the other weapons not listed above like swords, but this custom-made one extends it. Unfortunately this cheat was made with `Special Edition` in mind and may not work with other versions of Fates.
 
 ---
 We are also using a slightly modified version of the `More than 1% of growth rates don't fail to stat increases` cheat that makes it into a 0% growth rate cheat. To achieve this, you just have to change the last two 0's of the second line to F's.

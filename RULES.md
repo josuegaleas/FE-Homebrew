@@ -4,30 +4,30 @@ These are the rules for the setup described [here](https://github.com/josuegalea
 ## Table of Contents
 - [Character](#character)
 - [Turn Order](#turn-order)
-- [Movement & Action Costs](#movement-%26-action-costs)
+- [Movement & Action Costs](#movement--action-costs)
 	- [Attack Costs](#attack-costs)
 	- [Item Usage Costs](#item-usage-costs)
 	- [Weapon Switching Costs](#weapon-switching-costs)
 	- [Convoy Access Costs](#convoy-access-costs)
 	- [Other Costs](#other-costs)
 	- [Movement Assists](#movement-assists)
-- [Pair-Up's](#pair-up%27s)
-	- [Player Phase Pair-Up's](#player-phase-pair-up%27s)
-	- [Enemy Phase Pair-Up's](#enemy-phase-pair-up%27s)
+- [Pair-Up's](#pair-ups)
+	- [Player Phase Pair-Up's](#player-phase-pair-ups)
+	- [Enemy Phase Pair-Up's](#enemy-phase-pair-ups)
 - [Supports](#supports)
 - [Capture](#capture)
 - [Shopping](#shopping)
-	- [Eternal & Pseudo Skills](#eternal-%26-pseudo-skills)
+	- [Eternal & Pseudo Skills](#eternal--pseudo-skills)
 	- [Forging](#forging)
 	- [Donation Pools](#donation-pools)
-	- [Jakob/Felicia's Taco Truck](#jakob%2Ffelicia%27s-taco-truck)
+	- [Jakob/Felicia's Taco Truck](#jakobfelicias-taco-truck)
 - [Dismounting](#dismounting)
 - [Mission Checkpoints](#mission-checkpoints)
 - [Mission Failure](#mission-failure)
 - [Mission Success](#mission-success)
 	- [Rewards](#rewards)
 	- [Special Chapter Rewards](#special-chapter-rewards)
-- [Skill Modifications/Restrictions](#skill-modifications%2Frestrictions)
+- [Skill Modifications/Restrictions](#skill-modificationsrestrictions)
 - [Weapon Restrictions](#weapon-restrictions)
 	- [Staff Restrictions](#staff-restrictions)
 
@@ -132,7 +132,7 @@ Pivot|Unit moves to opposite side of target ally
 - You get the following perks with your partner:
 	- Once per turn, you may flip a coin to **not** consume a pair-up charge
 		- If you get `Heads` then the pair-up is free but the gold gained from pairing up is reduced to 500 from 1k
-		- If you get `Tails` then the pair-up is *not* free and gameplay continues as normal
+		- If you get `Tails` then the pair-up is **not** free and gameplay continues as normal
 		- You do not have to commit to the pair-up in either outcome, but you can not "save" a `Heads` pair-up
 		- Not available if the supporting unit has no pair-up's left
 	- You can inherit **one** skill from your partner (except Eternal skills)
