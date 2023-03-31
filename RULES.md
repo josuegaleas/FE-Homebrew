@@ -78,7 +78,8 @@ These are the rules for the setup described [here](https://github.com/josuegalea
 - The cost to access convoy is `0` when adjacent to them, otherwise it costs `2`
 
 ### Other Costs
-- Only **one** chest or door can be opened per turn (requires a key)
+- Only **one** chest or door can be opened per turn
+	- Requires a key; the key does not have to be in your inventory
 - Only **one** town/house visit is allowed per turn
 - You may stand on "sparkles" at the end of your turn for no cost, otherwise it costs `1` to check
 - The cost of breaking objects (such as walls) scales the same as using items
@@ -151,6 +152,7 @@ Pivot|Unit moves to opposite side of target ally
 ## Shopping
 - Silver cards can be used to get 50% off any weapon (except Legendaries) or 5k gold off any Eternal skill
 - Silver cards can also be used to restore lost forged weapons after one mission
+- Silver cards can **not** be sold or traded
 - All `Tier 2` skills are locked until you are Tier 2
 - All `Other` or `Personal` skills worth 15k or more gold are locked until you are Tier 2
 - You can **not** unequip your lottery skills until you are level 10
@@ -158,10 +160,9 @@ Pivot|Unit moves to opposite side of target ally
 	- Example: You can **not** have both `Swordbreaker` and `Lancebreaker` equipped
 - The group is limited to three purchases of each skill
 	- Consult the list in the `Skill Counter` tab in the Inventory spreadsheet
+- You can **not** use an 'Arms Scroll' until you are Tier 2 and level 10
 - You can **not** purchase `enemy only` weapons until you are Tier 2
 - You can **not** purchase your second pair of boots until you are Tier 2
-- You can **not** purchase `Arms Scroll`
-	- If found in a mission, it must be sold for 3.5k gold
 - You can only purchase **one** seal
 	- The purchasable options are: `Battle Seal`, `Visitation Seal`, `Master Emblem`
 - There can only be **one** of each Legendary weapon
@@ -186,6 +187,7 @@ Inevitable End|
 
 ### Forging
 - You can have up to two forged weapons
+- You can **not** forge a weapon that you can not use
 - Your default weapon can **not** be forged
 - Custom weapons can be forged up to +7, regular weapons up to +4, and Legendary weapons up to +1
 	- Can only forge up to +3 until the group finishes the chapter in which they get their second die
@@ -211,9 +213,10 @@ Forge Count|Must Have|Cost|Re-purchase|Sell-off
 - Example #2: `Silver Sword +2` = `Silver Sword +1` (already owned) + `Silver Sword` (5k) + `Add. Cost` (8k) --> 13k
 
 ### Donation Pools
-- There are two pools to donate towards:
+- There are three pools to donate towards:
 	- Señor Jakob/Señorita Felicia for 10k gold
 	- Bifröst for 40k gold
+	- Food Buff for 5k gold
 - When the `Señor Jakob/Señorita Felicia` pool is funded, Jakob/Felicia becomes available to provide support and sell staff/rod services
 	- Jakob/Felicia will provide +4 damage and -4 damage received if within two spaces of them
 	- Jakob/Felicia will also provide a 30% heal if within two spaces of them at the start of the player phase
@@ -222,6 +225,9 @@ Forge Count|Must Have|Cost|Re-purchase|Sell-off
 	- The revived unit will not get their lost weapon back and any subsequent deaths will lead to more lost weapons
 	- Jakob/Felicia must be present to cast this Bifröst charge
 	- This Bifröst charge can only be used once per mission
+- When the `Food Buff` pool is funded, the entire party gets two temporary stat boosts
+	- The two stats are selected through a group vote
+	- The food is obtained through the Mess Hall
 	
 ### Jakob/Felicia's Taco Truck
 Service|Cost
