@@ -114,6 +114,7 @@ Pivot|Unit moves to opposite side of target ally
 - Can be done through flier-only terrain, such as water
 - Can **not** be done through impassable terrain, such as fire or walls
 - Can **not** be done with non-player-controlled units, such as Corrin
+- Can **not** preview combat forecast for when splitting off from a pair-up
 
 ### Player Phase Pair-Up's
 - The supporting unit must be within **three** spaces of the lead unit before they move or attack

@@ -1,5 +1,5 @@
 ## Cheats Being Used
-Go into the `Cheats` folder in this [repository](https://github.com/iSharingan/CTRPF-AR-CHEAT-CODES) and search up your version of Fates. In our case, we use these [codes](https://github.com/iSharingan/CTRPF-AR-CHEAT-CODES/blob/master/Cheats/Fire%20Emblem%20Fates%20-%20Special%20Edition%20(USA)/0004000000179800.txt).
+Go into the `Cheats` folder in this [repository](https://github.com/iSharingan/CTRPF-AR-CHEAT-CODES) and search up your version of Fates. In our case, we use these [codes](https://github.com/iSharingan/CTRPF-AR-CHEAT-CODES/blob/master/Cheats/Fire%20Emblem%20Fates%20-%20Special%20Edition%20(USA)/0004000000179800.txt). For preservation's sake, a copy of this file can also be found in this repo.
 
 Always Enabled|Enabled When Needed
 ---|---
@@ -26,6 +26,33 @@ We are also using a custom-made cheat from [here](https://gbatemp.net/threads/ga
 - All rock weapons
 - All saw weapons
 
+For preservation's sake, the code is as follows and was made by `ymyn`:
+```
+[Forge is possible from 0 to 63 v1.0]
+005287C8 EA000009
+00528830 E3A00063
+003C1180 E3A01000
+003C1338 E351003F
+003C133C C3A0103F
+003C1344 E5841044
+003C3ABC E1A00000
+00610F18 E1A06000
+00610F1C E5941000
+00610F20 E1A00004
+00610F24 E591106C
+00610F28 E12FFF31
+00610F2C E1D000B0
+00610F30 E3A01001
+00610F34 EBF6FFDC
+00610F38 EBFC6089
+00610F3C E3500000
+00610F40 0AFC5E3C
+00610F44 E3A05000
+00610F48 E5C65003
+00610F4C EAFC5E33
+0052881C BA03A1BD
+```
+
 For our setup, this cheat is always enabled. The cheat is based on the `Forge is possible from 0 to 63  v1.0` cheat listed in the repository. The cheat normally only lets you forge all the other weapons not listed above like swords, but this custom-made one extends it. Unfortunately this cheat was made with `Special Edition` in mind and may not work with other versions of Fates.
 
 ---
@@ -45,7 +72,7 @@ D3000000 00000000
 For our setup, this cheat is enabled when needed.
 
 ---
-We are also using a cheat from [here](https://gamebanana.com/mods/51424) that alleviates a ghosting effect that occurs when increasing the resolution in Citra. It is not necessary to install the mod so no need to download it, the codes are as follows:
+We are also using a cheat from [here](https://gamebanana.com/mods/51424) that alleviates a ghosting effect that occurs when increasing the resolution in Citra. It is not necessary to install the mod so no need to download it, the codes are as follows and were made by `Moonling`:
 ```
 Fates Shader Ghosting Fix for Citra
 

@@ -14,6 +14,7 @@ Original concept by Zeoro, documentation and rules written mostly by Josue.
 - [Character & Custom Weapon Creator](https://docs.google.com/spreadsheets/d/1xGSfxuuh6_xEI5TidIJ8dtZY9I_GhrJEe_qqwhvOJo0/edit?usp=sharing)
 - [Blank Inventory Spreadsheet](https://docs.google.com/spreadsheets/d/11pNc7kBphGpPm-2IJ2guYXxa9ntc2QWtOJu4MTR6GIc/edit?usp=sharing)
 - [Twitch Stream & Videos](https://www.twitch.tv/zeoro94)
+- [Backups of Streams](https://www.youtube.com/@zeoro9497)
 - [BGM Titles](https://www.reddit.com/r/fireemblem/comments/46c9bj/spoilers_fates_localization_dump_bgm_titles/)
 
 ## Software Being Used
@@ -45,9 +46,9 @@ Jakob/Felicia is equipped with the following skills:
 - Rallying Cry
 
 ## Other Modifications
-- The cap stats of almost all classes were increased
-- The base stats of some classes were modified
+- The cap stats of almost all classes were increased (too much to document)
+- The base stats of some classes were modified (too much to document)
 - The range of `Hexlock Spear` was changed from 1 to 1~2
 - The durability of `Rescue` was changed from 2 to 4
 - All S rank weapons have the flag `Halves Stats After Battle` enabled
-- Various custom weapons were added
+- Various custom weapons were added (this is campaign-specific, will not document)
