@@ -1,5 +1,5 @@
 ## Cheats Being Used
-Go into the `Cheats` folder in this [repository](https://github.com/iSharingan/CTRPF-AR-CHEAT-CODES) and search up your version of Fates. In our case, we use these [codes](https://github.com/iSharingan/CTRPF-AR-CHEAT-CODES/blob/master/Cheats/Fire%20Emblem%20Fates%20-%20Special%20Edition%20(USA)/0004000000179800.txt). For preservation's sake, a copy of this file can also be found in this repo.
+Go into the `Cheats` folder in this [repository](https://github.com/iSharingan/CTRPF-AR-CHEAT-CODES) and search up your version of Fates. In our case, we use these [codes](https://github.com/iSharingan/CTRPF-AR-CHEAT-CODES/blob/master/Cheats/Fire%20Emblem%20Fates%20-%20Special%20Edition%20(USA)/0004000000179800.txt). For preservation's sake, a backup of this file can also be found in `preservation` folder.
 
 Always Enabled|Enabled When Needed
 ---|---

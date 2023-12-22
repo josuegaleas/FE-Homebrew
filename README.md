@@ -16,6 +16,7 @@ Original concept by Zeoro, documentation and rules written mostly by Josue.
 - [Twitch Stream & Videos](https://www.twitch.tv/zeoro94)
 - [Backups of Streams](https://www.youtube.com/@zeoro9497)
 - [BGM Titles](https://www.reddit.com/r/fireemblem/comments/46c9bj/spoilers_fates_localization_dump_bgm_titles/)
+	- A backup of this post can be found in the `preservation` folder which was scraped using [bdfr](https://github.com/aliparlakci/bulk-downloader-for-reddit).
 
 ## Software Being Used
 Name|Purpose
@@ -26,6 +27,7 @@ Name|Purpose
 [BCH-Texture-Editor](https://github.com/VelouriasMoon/BCH-Texture-Editor/releases)|Extracting the textures
 [Clip Studio Paint](https://www.clipstudio.net/)|Editing the textures
 [fe-conversation-editor](https://gitlab.com/secretivecactus/fe-conversation-editor/-/releases)|Creating support conversations
+[CTR-Studio](https://github.com/MapStudioProject/CTR-Studio/releases)|Editing 3DS formats (not used but may be helpful)
 
 ## Setup for NPCs
 Corrin is equipped with the following skills:
