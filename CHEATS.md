@@ -72,10 +72,8 @@ D3000000 00000000
 For our setup, this cheat is enabled when needed.
 
 ---
-We are also using a cheat from [here](https://gamebanana.com/mods/51424) that alleviates a ghosting effect that occurs when increasing the resolution in Citra. It is not necessary to install the mod so no need to download it, the codes are as follows and were made by `Moonling`:
+We are also using a cheat from [here](https://gamebanana.com/mods/51424) that alleviates a ghosting effect that occurs when increasing the resolution in Azahar. It is not necessary to install the mod so no need to download it, the codes are as follows and were made by `Moonling`:
 ```
-Fates Shader Ghosting Fix for Citra
-
 USA SE
 [Ghosting Shader Fix]
 D3000000 00000000
